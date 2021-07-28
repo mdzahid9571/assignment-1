@@ -7,8 +7,12 @@ h1{
 .orange-color{
     color:orange;
 }
+.chayan{
+    color: cyan;
+}
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width:50%;
@@ -25,6 +29,38 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
+.my-self{
+    background-image: url(Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .m-text{
     text-align: center;
+}
+.r-list{
+    border-radius: 10px;
+   width: 20%;
+   margin-left: 5%;
+   margin-right: 10%;
+   box-shadow: 10px 10px 40px gray;
+}
+.food-pik{
+  text-align: center;
+  padding-right: 50px;
+  padding-top: 20px;
+  
+}
+.p-list{
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 10px 10px 40px gray;
+}
+.last-i{
+    text-align: center;
+    background-color: black;
+}
+.p-colar{
+    color: white;
 }
